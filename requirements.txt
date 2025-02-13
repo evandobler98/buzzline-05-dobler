@@ -113,3 +113,7 @@ kafka-python-ng
 # PyMySQL - MySQL client library
 # Uncomment the line below to install PyMySQL.
 # PyMySQL
+
+PyQt6; sys_platform != "win32"
+six
+kafka-python-ng
